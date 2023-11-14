@@ -2,3 +2,5 @@ get user Datas...
 
 
 Process the Data
+
+user Avatar input area
